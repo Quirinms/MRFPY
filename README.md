@@ -44,10 +44,21 @@ state-of-the-art methods.
 
 ## Use cases
 
+4 use cases: Callcenter, Electricity demand, oil prices and stock values.
+
 ![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter.png)
 ![alt text](https://github.com/Quirinms/MRFPY/blob/master/Electricity.png)
 ![alt text](https://github.com/Quirinms/MRFPY/blob/master/Prices.png)
 ![alt text](https://github.com/Quirinms/MRFPY/blob/master/Stox.png)
+
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/Entsoe_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/Entsoe_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/SAP500_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/SAP500_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/SEP_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/SEP_SMAPE_Reference_Horizon_1.png)
 
 
 ## Installation
