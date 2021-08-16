@@ -30,8 +30,6 @@ This is a python package for time series forecasting and got created for a maste
 
 ## References
 
-## Master thesis
-
 ## Publication
 
 ## Additional information
