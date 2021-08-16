@@ -21,12 +21,9 @@ This is a python package for time series forecasting and got created for a maste
 
 ## Use cases
 
-![Callcenter](https://github.com/Quirinms/MRFPY/Callcenter.png)
-![Electricity](https://github.com/Quirinms/MRFPY/Electricity.png)
-![Prices](https://github.com/Quirinms/MRFPY/Prices.png)
-![Stox](https://github.com/Quirinms/MRFPY/Stox.png)
 
 
+![alt text](https://github.com/Quirinms/MRFPY/Callcenter.png?raw=true)
 
 
 ## Installation
