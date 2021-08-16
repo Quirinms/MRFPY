@@ -14,13 +14,18 @@ This is a python package for time series forecasting and got created for a maste
 3. [Installation](#installation)
 4. [Documentation](#documentation)
 5. [References](#references)
-6. [Master thesis](#master-thesis)
-7. [Publication](#publication)
-8. [Additional information](#additional-information)
+6. [Publication](#publication)
+7. [Additional information](#additional-information)
 
 ## Description
 
 ## Use cases
+
+![Callcenter](https://github.com/Quirinms/MRFPY/Callcenter.png)
+![Electricity](https://github.com/Quirinms/MRFPY/Electricity.png)
+![Prices](https://github.com/Quirinms/MRFPY/Prices.png)
+![Stox](https://github.com/Quirinms/MRFPY/Stox.png)
+
 
 
 
