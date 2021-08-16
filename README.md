@@ -22,6 +22,8 @@ This is a python package for time series forecasting and got created for a maste
 
 ## Use cases
 
+
+
 ## Installation
 
 ## Documentation
