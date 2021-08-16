@@ -17,6 +17,7 @@ This is a python package for time series forecasting and got created for a maste
 
 ## Description
 
+
 ## Use cases
 
 ![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter.png)
@@ -27,11 +28,17 @@ This is a python package for time series forecasting and got created for a maste
 
 ## Installation
 
+Execute following command in a terminal:
+
 pip install MRFPY-1.0.0.tar.gz
 
 ## Documentation
 
+
+
 ## References
 
 Aussem,  A.,  Campbell,  J.,  and  Murtagh,  F.  (1998)  Wavelet-based  feature extraction    and    decomposition    strategies    for    financial    forecasting, International Journal of Computational Intelligence in Finance, 6 (5-12).
+
+
 
