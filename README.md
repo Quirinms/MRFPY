@@ -46,26 +46,26 @@ state-of-the-art methods.
 
 4 use cases: Callcenter, Electricity demand, oil prices and stock values.
 
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Electricity.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Prices.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Stox.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Electricity.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Prices.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Stox.png)
 
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter_SMAPE_Reference_Horizon_1.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Callcenter_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Entsoe_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/Entsoe_SMAPE_Reference_Horizon_1.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/SAP500_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/SAP500_SMAPE_Reference_Horizon_1.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/SEP_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/SEP_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_Horizon_1.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_From_1_To_14.png)
+![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_Horizon_1.png)
 
 
 ## Installation
 
 Execute following command in a terminal:
 
-pip install MRFPY-1.0.0.tar.gz
+pip install MRFPY
 
 ## Documentation
 
