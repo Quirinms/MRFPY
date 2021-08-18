@@ -5,8 +5,9 @@
 
 *Multi Resolution Time Series Forecasting (with wavelets)*
 
-This is a python package for time series forecasting and got created for a master thesis, University of Marburg, June, 2020.
-
+This is a Python package for univariate time series forecasting.
+There is also a R version of it.
+They are similar in naming and handling.
 
 ## Contents
 
@@ -25,6 +26,12 @@ Multi-step forecasts are obtained recursively.
 Currently, only univariate time series can be forecasted.
 There is ongoing work for multivariate time series forecasting.
 Find the theoretical work from Murtagh et al. in the references.
+
+You can create one-step forecasts with various linear and nonlinear methods using wavelet features trying out different possibilites.
+One-step forecasts can be created by directly accessing the methods specific function call or the abstract method "onestep".
+Multi-step forecasts are computed recursively and can be called with the abstract method "multistep".
+Evaluation studies of one specific setting can be computed with the rolling window function.
+A complete model selection with nested cross validation can be called with the function model_selection.
 
 
 ## Use cases
