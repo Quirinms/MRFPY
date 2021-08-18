@@ -28,4 +28,5 @@ setuptools.setup(
 		  'scikit-learn>=0.21.0'
     ],
     python_requires='>=3.6',
+	include_package_data=True,
 )
