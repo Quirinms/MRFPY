@@ -1,5 +1,5 @@
 # MRFPY
-*MRFPY: Multi Resolution Forecasting in Python*
+*MRFPY: [Multi Resolution Forecasting in Python](https://github.com/Quirinms/MRFPY)*
 
 *MRFR: [Multi Resolution Forecasting in R](https://github.com/Quirinms/MRFR)*
 
@@ -38,19 +38,19 @@ A complete model selection with nested cross validation can be called with the f
 
 4 use cases: Callcenter, Electricity demand, oil prices and stock values.
 
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Electricity.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Prices.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Stox.png)
+![Callcenter](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter.png)
+![Electricity](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Electricity.png)
+![Prices](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Prices.png)
+![Stox](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Stox.png)
 
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_Horizon_1.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_Horizon_1.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_Horizon_1.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_From_1_To_14.png)
-![alt text](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_Horizon_1.png)
+![CallcenterH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_Horizon_1.png)
+![CallcenterO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_From_1_To_14.png)
+![ElectricityH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_From_1_To_14.png)
+![ElectricityO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_Horizon_1.png)
+![PricesH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_From_1_To_14.png)
+![PricesO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_Horizon_1.png)
+![StoxH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_From_1_To_14.png)
+![StoxO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_Horizon_1.png)
 
 
 ## Installation
