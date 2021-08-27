@@ -25,7 +25,7 @@ Those features are processed in linear or nonlinear methods in order to yield a 
 Multi-step forecasts are obtained recursively.
 Currently, only univariate time series can be forecasted.
 There is ongoing work for multivariate time series forecasting.
-Find the theoretical work from Murtagh et al. in the references.
+Find the theoretical work from Murtagh et al in the references.
 
 You can create one-step forecasts with various linear and nonlinear methods using wavelet features trying out different possibilites.
 One-step forecasts can be created by directly accessing the methods specific function call or the abstract method "onestep".
