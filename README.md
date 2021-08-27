@@ -57,8 +57,7 @@ A complete model selection with nested cross validation can be called with the f
 
 Execute following command in a terminal:
 
-pip install MRFPY
-
+pip install MRFPY==1.0.1 
 
 ## References
 
