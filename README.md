@@ -5,21 +5,27 @@
 
 *Multi Resolution Time Series Forecasting (with wavelets)*
 
-This is a Python package for univariate time series forecasting.
-There is also a R version of it.
-They are similar in naming and handling.
+This is a Python package for univariate time series forecasting with wavelets.
+An adaption is also available in R with similar handling and naming.
+
+
 
 ## Contents
 
-1. [Description](#description)
-2. [Use cases](#use-cases)
-3. [Installation](#installation)
-4. [References](#references)
+1. [Highlights](#highlights)
+2. [Description](#description)
+3. [Use cases](#use-cases)
+4. [Installation](#installation)
+5. [References](#references)
 
+
+## Highlights
+
+![Highlights](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Highlights.png)
 
 ## Description
 
-This github repository provides an implementation of the algorithm of the workgroup around F. Murtagh.
+This package provides an implementation of the algorithm of the workgroup around F. Murtagh.
 It uses a redundant Haar wavelet transform to decompose a time series in its wavelet and the corresponding smooth approximation features.
 Those features are processed in linear or nonlinear methods in order to yield a one-step forecast.
 Multi-step forecasts are obtained recursively.
@@ -34,23 +40,6 @@ Evaluation studies of one specific setting can be computed with the rolling wind
 A complete model selection with nested cross validation can be called with the function model_selection.
 
 
-## Use cases
-
-4 use cases: Callcenter, Electricity demand, oil prices and stock values.
-
-![Callcenter](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter.png)
-![Electricity](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Electricity.png)
-![Prices](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Prices.png)
-![Stox](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Stox.png)
-
-![CallcenterH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_Horizon_1.png)
-![CallcenterO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Callcenter_SMAPE_Reference_From_1_To_14.png)
-![ElectricityH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_From_1_To_14.png)
-![ElectricityO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/Entsoe_SMAPE_Reference_Horizon_1.png)
-![PricesH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_From_1_To_14.png)
-![PricesO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SAP500_SMAPE_Reference_Horizon_1.png)
-![StoxH1](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_From_1_To_14.png)
-![StoxO14](https://github.com/Quirinms/MRFPY/blob/master/doc/images/SEP_SMAPE_Reference_Horizon_1.png)
 
 
 ## Installation
