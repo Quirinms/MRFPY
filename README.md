@@ -3,7 +3,7 @@
 
 *MRFR: [Multi Resolution Forecasting in R](https://github.com/Quirinms/MRFR)*
 
-*Multi Resolution Time Series Forecasting (with wavelets)*
+*Multiresolution Forecasting in Python (with wavelets)*
 
 This is a Python package for univariate time series forecasting with wavelets.
 An adaption is also available in R with similar handling and naming.
@@ -25,20 +25,19 @@ An adaption is also available in R with similar handling and naming.
 
 ## Description
 
-This package provides an implementation of the algorithm of the workgroup around F. Murtagh.
+This package provides an implementation of an algorithm of the workgroup around Renaud, O., Starck, J.-L., and Murtagh, F..
 It uses a redundant Haar wavelet transform to decompose a time series in its wavelet and the corresponding smooth approximation features.
 Those features are processed in linear or nonlinear methods in order to yield a one-step forecast.
 Multi-step forecasts are obtained recursively.
 Currently, only univariate time series can be forecasted.
 There is ongoing work for multivariate time series forecasting.
-Find the theoretical work from Murtagh et al in the references.
+Find the theoretical work from the above mentioned workgroup in the references.
 
 You can create one-step forecasts with various linear and nonlinear methods using wavelet features trying out different possibilites.
 One-step forecasts can be created by directly accessing the methods specific function call or the abstract method "onestep".
 Multi-step forecasts are computed recursively and can be called with the abstract method "multistep".
 Evaluation studies of one specific setting can be computed with the rolling window function.
 A complete model selection with nested cross validation can be called with the function model_selection.
-
 
 
 
