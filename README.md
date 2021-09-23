@@ -50,6 +50,8 @@ pip install MRFPY==1.0.1
 
 ## References
 
+Stier, Q.; Gehlert, T.; Thrun, M.C. Multiresolution Forecasting for Industrial Applications. Processes 2021, 9, 1697. [https://doi.org/10.3390/pr9101697](https://doi.org/10.3390/pr9101697)
+
 Aussem,  A.,  Campbell,  J.,  and  Murtagh,  F.  (1998)  Wavelet-based  feature extraction    and    decomposition    strategies    for    financial    forecasting, International Journal of Computational Intelligence in Finance, 6 (5-12).
 
 Aussem, A., Campbell, J., and Murtagh, F.: Waveletbased Feature Extraction and Decomposition Strategies for Financial Forecasting.
