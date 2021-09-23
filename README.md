@@ -1,7 +1,9 @@
-# MRFPY
-*MRFPY: [Multi Resolution Forecasting in Python](https://github.com/Quirinms/MRFPY)*
+# Multiresolution Forecasting Libraries in Python and R
+*MRFPY on pypi: [Multi Resolution Forecasting in Python](https://pypi.org/project/MRFPY/)*
+*MRFPY on GitHub: [Multi Resolution Forecasting in Python](https://github.com/Quirinms/MRFPY)*
 
-*MRFR: [Multi Resolution Forecasting in R](https://github.com/Quirinms/MRFR)*
+*MRFR on CRAN: [Multi Resolution Forecasting in R](https://CRAN.R-project.org/package=mrf)*
+*MRFR on GitHub: [Multi Resolution Forecasting in R](https://github.com/Quirinms/MRFR)*
 
 *Multiresolution Forecasting in Python (with wavelets)*
 
