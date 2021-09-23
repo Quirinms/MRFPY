@@ -16,9 +16,8 @@ An adaption is also available in R with similar handling and naming.
 
 1. [Highlights](#highlights)
 2. [Description](#description)
-3. [Use cases](#use-cases)
-4. [Installation](#installation)
-5. [References](#references)
+3. [Installation](#installation)
+4. [References](#references)
 
 
 ## Highlights
